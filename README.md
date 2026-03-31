@@ -1,0 +1,1 @@
+# Automated-Defect-Detection-System-using-Contour-Analysis-and-Morphological-Transformations
